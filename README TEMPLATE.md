@@ -81,4 +81,6 @@ data-science-project/
 4. Envie para o branch (`git push origin feature/nome-da-feature`).
 5. Abra um Pull Request.
 
-Autor: João Botelho
+## 👨‍💻 Autor
+
+João Botelho - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-botelho-86a5a8a3/) - [GitHub](https://github.com/joaobotelho20)

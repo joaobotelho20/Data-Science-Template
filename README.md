@@ -69,14 +69,6 @@ Detalhe o processo end-to-end da sua solução:
    - Monitoramento do modelo
    - Manutenção e atualização
 
-## 🚀 Próximos Passos
-
-Liste as melhorias, expansões ou novas direções para o projeto:
-
-- Melhoria 1: Explique brevemente
-- Melhoria 2: Explique brevemente
-- Melhoria 3: Explique brevemente
-
 ## 📁 Estrutura do Projeto
 
 ```plaintext
@@ -138,6 +130,14 @@ pip install -r requirements.txt
 # Execute o notebook principal
 jupyter notebook notebooks/main_analysis.ipynb
 ```
+
+## 🚀 Próximos Passos
+
+Liste as melhorias, expansões ou novas direções para o projeto:
+
+- Melhoria 1: Explique brevemente
+- Melhoria 2: Explique brevemente
+- Melhoria 3: Explique brevemente
 
 ## 👨‍💻 Autor
 

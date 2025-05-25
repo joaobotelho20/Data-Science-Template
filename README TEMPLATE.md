@@ -1,4 +1,4 @@
-# 📊 Automatização ETL com endpoint para BI
+# 📊 Automatização ETL com endpoint para BI test
 
 criano uma automatização com script python para extrair arquivos de software local em aruivos excel e pdf, transformar e subir em pasta comum para desenvolvimento de relatorios e dashboards automatizados no negócio.
 
